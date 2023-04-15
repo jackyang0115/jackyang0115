@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jackyang0115
 - 👀 I’m interested in coding, soccer and photograph
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is a secret,ahhh
 
 <!---
